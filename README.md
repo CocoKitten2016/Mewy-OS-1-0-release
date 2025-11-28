@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://cocokitten2016.github.io/mewy-os-1-0-release/](https://cocokitten2016.github.io/mewy-os-1-0-release/)
+> Open this page at [https://cocokitten2016.github.io/mewy-os-1-0-release/](https://cocokitten2016.github.io/Mewy-OS-1-0-release/)
 
 ## Use as Extension
 
